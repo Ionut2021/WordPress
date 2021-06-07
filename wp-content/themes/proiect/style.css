@@ -1,0 +1,38 @@
+nav
+{
+position: absolute;
+width: 1920px;
+height: 80px;
+left: 0px;
+top: 0px;
+}
+.logo
+{
+position: absolute;
+width: 62.79px;
+height: 52px;
+left: 295px;
+top: 14px;
+}
+
+nav ul li {
+   float: center;
+   display:inline; /* Dispunere in linie */
+
+position: absolute;
+width: 893px;
+height: 22px;
+left: 494px;
+top: 29px;
+
+font-family: Nunito Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+
+
+/* Text */
+
+color: #2A2A2A;
